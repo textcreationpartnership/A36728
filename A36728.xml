@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick to the memory of His Grace Frederick, late Duke of Schonberg ... by H. de Luzancy ...</title>
+            <title>Abbregé de la vie de Frédéric duc de Schomberg. English</title>
+            <author>De Luzancy, H. C. (Hippolyte du Chastelet), d. 1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36728</idno>
+            <idno type="STC">Wing D2417A</idno>
+            <idno type="STC">ESTC R4165</idno>
+            <idno type="EEBO-CITATION">12268969</idno>
+            <idno type="OCLC">ocm 12268969</idno>
+            <idno type="VID">58168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 182:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick to the memory of His Grace Frederick, late Duke of Schonberg ... by H. de Luzancy ...</title>
+                  <title>Abbregé de la vie de Frédéric duc de Schomberg. English</title>
+                  <author>De Luzancy, H. C. (Hippolyte du Chastelet), d. 1713.</author>
+               </titleStmt>
+               <extent>[5], 7-40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Abbregé de la vie de Frédéric duc de Schomberg.</note>
+                  <note>Advertisements: p. [4]-[5].</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:58168:1"/>
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 4. 1690.</date>
+               </dateline> 
+               <signed>R. MIDGLEY.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:58168:1" rendition="simple:additions"/>
+            <p>A PANEGYRICK TO THE MEMORY OF HIS GRACE Frederick Late DUKE of SCHONBERG, Marqueſs of <hi>Harwich,</hi> Earl of <hi>Brentford,</hi> Count of the Holy Empire, State-Holder of <hi>Pruſſia,</hi> Grandee of <hi>Spain, &amp;c.</hi> General of all His Majeſties Land Forces, and Knight of the Moſt Noble Order of the Garter.</p>
+            <p>By <hi>H. de Luzancy,</hi> Miniſter of <hi>Harwich,</hi> Chaplain to the late Duke, and to his preſent Grace of <hi>Schonberg.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley,</hi> in <hi>Ruſſel-ſtreet</hi> in <hi>Covent-Garden,</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58168:2"/>
+            <pb facs="tcp:58168:2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>IT will not be amiſs to tell the Reader, that there having been a Deſign, to give ſome preſent Account of the Life of <hi>His Grace the late Duke of Schonberg,</hi> at laſt, it was thought fitter to write a Panegyrick, than a Hiſtory. Several Memoirs are now wanting to perfect the one, and there is Matter enough to fill up the other: Both agreeing in this, that nothing is omitted in a Panegyrick, that is great or conſiderable in Hiſtory.</p>
+            <p>It may be Objected; that it is a way of writing ſomewhat ſtrange and extraordinary to us: That there is very few pieces of that ſort extant in <hi>Engliſh;</hi> and that nothing ſatisfies and inſtructs ſo much; as a Critical and Exact Calculation of times and places, as being that which gives not only a general proſpect, but alſo a parti<g ref="char:EOLhyphen"/>cular account of Mens Lives.</p>
+            <p>But this is eaſily anſwer'd, if we conſider, that tho' the Pens of this Nation, ſo admirably
+<pb facs="tcp:58168:3"/>exercis'd in all other kinds of Writing, have in a great meaſure neglected this; yet it is ex<g ref="char:EOLhyphen"/>cellent in it ſelf, and much admir'd by Ancient and Modern Authors.</p>
+            <p>The beſt of the <hi>Greek</hi> and <hi>Roman</hi> Writers, have not only left us ſeveral Pieces that are Originals in that way of Writing; but even preſcrib'd a Method to attain to its Perfection. <hi>Longinus</hi> and <hi>Pliny</hi> have far outdone the Hiſtories of their times: <hi>Gregory</hi> the <hi>Nazi<g ref="char:EOLhyphen"/>anzene,</hi> and <hi>St. Ambroſe</hi> of <hi>Milan,</hi> tho' in a leſs Polite Age, and a courſer Stile, have ex<g ref="char:EOLhyphen"/>cell'd in it. The <hi>French</hi> have rais'd it of late to a great height, and their <hi>Oraiſons Funebres,</hi> particularly that of <hi>Mareſchal de Turenne,</hi> the <hi>Prince of Condé,</hi> and <hi>Madam de Lon<g ref="char:EOLhyphen"/>gueville,</hi> might paſs for Models to future Ages, if they had not too much the Air of Sermons.</p>
+            <p>This is ventur'd amongſt the reſt, by way of Eſſay, and if not accepted, will only ſerve as a Preface to the <hi>Duke</hi> of <hi>Schonberg</hi>'s <hi>Hi<g ref="char:EOLhyphen"/>ſtory.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="panegyric">
+            <pb n="7" facs="tcp:58168:3"/>
+            <head>A Panegyrick to the Memory, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Loſs of <hi>His Grace the Duke of SCHONBERG</hi> has fill'd <hi>Europe</hi> both with Grief and Amazement. So great a Perſon grown old in the Commands of Armies, might have promis'd himſelf a better Fate, and died in the Arms of his Friends. Hero's ſeem to have a title to Life; and tho' they have run a long courſe of years, their Death is always ſurpriſing and untimely. The end of this Noble Duke was ſo to us; but the Blow would have ſmarted much more, had it not been in a manner ſwallow'd up with the News of the great Victory
+<pb n="8" facs="tcp:58168:4"/>in <hi>Ireland,</hi> and the loud acclamations of joy to <hi>WILLIAM the Third</hi> ſup<g ref="char:EOLhyphen"/>preſt all other Paſſions whatſoever. Hap<g ref="char:EOLhyphen"/>py then to ſee before he was taken away, the ſucceſs of his Royal Maſter, and to have been an Inſtrument of that Victo<g ref="char:EOLhyphen"/>ry which ſettles him in his Kingdoms.</p>
+            <p>Let us pay him after his death that admiration which us'd to attend all the Actions of his Life. It is a Theam on which may be ſpent all the Beauties of Eloquence, and a Subject worthy the beſt Pens; in which the Orator has this advantage, That what he has to ſay is a<g ref="char:EOLhyphen"/>bove the improvements of Art, and the mean aſſiſtance of Flattery.</p>
+            <p>The true Repreſentation of that Noble Perſon is of it ſelf a Panegyrick; and only this is to be ſaid of him, <hi>That Greatneſs and Goodneſs, ſo ſeldom united in others, have been in him inſeparably linkt; That he has been conſpicuous to the World by good Actions, as well as famous
+<pb n="9" facs="tcp:58168:4"/>Exploits; That he has not only been a Great, but alſo an Excellent Man.</hi>
+            </p>
+            <p>The real Greatneſs of Men is chiefly deriv'd from the Nobility of their Birth, the ſplendour of their Employments, and the reputation of their Performances: The one is a kind of Capacity for the greateſt Truſts; the other an Argument of their Worth and Abilities; and the laſt a ſplendid diſtinction from the Herd of Mortals, who act within a narrow Sphere, and are forgotten in the Crowd.</p>
+            <p>The DUKE had the advantage of the Firſt, by a long and uninterrupted deſcent of Noble Anceſtours in the <hi>Pa<g ref="char:EOLhyphen"/>latinate:</hi> That Country gave him to the World, as a new Ornament to a Fa<g ref="char:EOLhyphen"/>mily already honour'd with the greateſt Civil and Military Offices, both at home and abroad: He had in his Veins the Blood of Princes of the Empire, of Stat<g ref="char:EOLhyphen"/>holders, and of <hi>Mareſchaux de France:</hi> He brought their inclinations into the
+<pb n="10" facs="tcp:58168:5"/>World, and made ſince a vaſt addition to their Stock of Fame and Honour.</p>
+            <p>But how unprofitable is the happieſt Nature, if it be not ſeconded by a Ge<g ref="char:EOLhyphen"/>nerous Education? And what does it ſignifie to be deſcended from Heroick Anceſtours, if we are not made capable of treading in their ſteps? Education makes us truly what we are; and if Na<g ref="char:EOLhyphen"/>ture prepares Men to, it is that that lays the Foundation of Great Actions.</p>
+            <p>The DUKE was brought up by thoſe Maſters who took care to perfect in him the Chriſtian and the Gentleman; two Qualifications ſo far from being incon<g ref="char:EOLhyphen"/>ſiſtent, that the one infinitely helps the o<g ref="char:EOLhyphen"/>ther; the Service of God fitting us for that of the Prince: Fenc'd then with Princi<g ref="char:EOLhyphen"/>ples of Honour and Vertue at home, he was ventur'd abroad; <hi>Germany, England, France</hi> and <hi>Holland</hi> ſpent his younger years. The three firſt, the greateſt Courts; the laſt, the plaineſt, but perhaps the
+<pb n="11" facs="tcp:58168:5"/>wiſeſt part of <hi>Europe.</hi> Travelling was not then, what the monſtrous Corruption and Degeneracy of this Age has made it ſince. It is now reſolv'd into ſmattering of <hi>French,</hi> and a perfect Syſteme of all manner of Vices: Men of Quality then did not only learn Languages, a fine ſort of Accompliſhment; but did endeavour to penetrate into the Intereſts, Deſigns, and Inclinations of other Countries; and came home Wiſer, Better, and fitter to Govern themſelves and others.</p>
+            <p>The DUKE became ſo abſolute a Maſter of thoſe Languages, that it was hard to diſcern which was moſt Natural to him: And tho' he had not been here of many years, yet he had preſerv'd the Beauty and Purity of the <hi>Engliſh</hi> Tongue, to a great degree. But he had ſo acquaint<g ref="char:EOLhyphen"/>ed himſelf with the Secrets of <hi>Europe,</hi> as to underſtand the management of all Courts, and be as fit for the Cabinet, as he prov'd afterwards for the Camp.</p>
+            <pb n="12" facs="tcp:58168:6"/>
+            <p>His Genius leading him to Martial Affairs, He gave himſelf wholy to the ſtudy of Military Diſcipline: Nature had fitted him, for what <hi>Europe</hi> admir'd him afterwards; that is, for an Excellent Com<g ref="char:EOLhyphen"/>mander. And really, this is the Scene of that Great Man's Life. It is the Theater, where his Actions have repleniſh'd the world with aſtoniſhment; and made him, if not Superior, at leaſt Equal, to the <hi>MONTEC<g ref="char:V">Ʋ</g>C<g ref="char:V">Ʋ</g>LIS,</hi> the <hi>T<g ref="char:V">Ʋ</g>RENNES,</hi> the <hi>CONDES,</hi> that is, the <hi>CAESARS</hi> of our Age.</p>
+            <div type="part">
+               <p>He had a Robuſt, and Strong Body, capable of the greateſt Hardſhips. He was Naturally Active, a great lover of Exerciſe, Healthful and Temperate to Admiration. He neither Courted nor Fear'd Danger; ever Himſelf, ever For<g ref="char:EOLhyphen"/>tunate, ever preventing the worſt, and Surmounting the greateſt Diffi<g ref="char:EOLhyphen"/>culties.</p>
+               <pb n="13" facs="tcp:58168:6"/>
+               <p>He would not preſume to Command, before he knew perfectly how to Obey. He began by the ſmalleſt charge of the Army; and ow'd his Advancement, nei<g ref="char:EOLhyphen"/>ther to the advantage of his Quality, being then Count of the <hi>Holy Empire,</hi> or to the Credit of his Friends; but to his own Perſonal Merit: He did not Court, but Command his Advancement; and ſo diſtinguiſh'd himſelf, as to fix the eyes of <hi>Europe</hi> upon him, and perſwade the World, that he had no Obſtacle, but his Religion, to the greateſt Honour that <hi>France</hi> could give him.</p>
+               <p>But omitting the particular account of what he did in an Inferiour Station, as that that would change a Panegyrick into Hiſtory, and ſwell a Diſcourſe into a Volume: we ſhall only praiſe what ſeems moſt conſiderable. Thus laying aſide <hi>Bourbourg,</hi> then a moſt important place to the <hi>French,</hi> defended by the DUKE againſt two powerful Armies, which he
+<pb n="14" facs="tcp:58168:7"/>forc'd by his Conduct to Raiſe the Siege; and the tedious Wars of <hi>Rouſillon;</hi> What more Glorious or Succeſsful? What more Wiſe and Fortunate, than the buſineſs of <hi>Portugal?</hi> That Kingdom had fallen into the hands, and remain'd ſome years un<g ref="char:EOLhyphen"/>der the Command of <hi>Spain.</hi> A happy Conſpiracy, if that Name can be given to the Aſſerting the Liberties, and ſecuring the Throne of a Nation, broke at laſt the fatal Yoke. But the grief of loſing the Fruit of an Uſurpation, to which time had given the face of a good Title, rais'd the Fury, and ſtirr'd up the whole Power of the <hi>Spaniards:</hi> Beſides the Na<g ref="char:EOLhyphen"/>tural Strength of that People, who are ge<g ref="char:EOLhyphen"/>nerally Brave and Great; they had Peace with <hi>France:</hi> They were eaſily perſwaded, that their united Forces, would quickly oblige their Enemy to return to their Obedience. Thus they pour'd their vaſt Armies into the very Bowels of <hi>Portugal;</hi> and had almoſt put a period to the
+<pb n="15" facs="tcp:58168:7"/>War, and to that ſtrange Revolution. It was then, and not before, that the <hi>Duke</hi> was ſent to Command what Forces the Diſtreſſed <hi>Portugueſes</hi> could make. His Name rais'd their drooping Spirits: His Valour made 'em Brave, and his Conduct Wiſe: He retook their Towns, and beat their Enemies in all the Rencounters he had with them: He overcame them in ſeveral Battels. But in the laſt, wherein <hi>Don Juan</hi> of <hi>Auſtria</hi> had receiv'd vaſt Reinforcements from <hi>Spain,</hi> and was reſolved either to periſh, or ſecure that Country to his King, who had been at ſo vaſt an Expence of Blood and Treaſure to preſerve it; He Defeated him ſo abſolutely, that he never appear'd more.</p>
+               <p>The <hi>Spaniard</hi> was forc'd to accept of a Peace, which before the <hi>Duke</hi>'s coming, he could not be prevail'd upon to grant; to Treat with thoſe he had call'd Rebels, as with his Equals; and to acknowledge <hi>Portugal</hi> a Free and an Independent King<g ref="char:EOLhyphen"/>dom.</p>
+               <pb n="16" facs="tcp:58168:8"/>
+               <p>All <hi>Europe</hi> was amaz'd at this: The Poets and Orators fill'd the World with his Praiſes. <hi>France</hi> who is equitable to none, but thoſe whom they think will advance their Intereſts, was juſt to him in that point: <hi>Lewis the Invincible,</hi> who ſhall be ſo, till <hi>William</hi> the Third can meet him in the Field, ſent to offer him <hi>the Baſton of Mareſchal de France;</hi> a Dignity, which is to this day the greateſt Reward of Me<g ref="char:EOLhyphen"/>rit in Chriſtendom; as Ancient as that Mo<g ref="char:EOLhyphen"/>narchy, and never paid but to Eminent Services. But indeed, it was offer'd on a Condition, which the <hi>Duke</hi> rather than accept, would have forfeited all the Glory of his paſt Life. It was deſir'd of him, that he would leave the Religion of his Anceſtors, and be of that of the Prince who employ'd him. This was urg'd with all the earneſtneſs imaginable, and ſuch Inſinuations added to it, as would have ſhaken the conſtanteſt Man. But oh, the Power of Honour and Religion! oh, the
+<pb n="17" facs="tcp:58168:8"/>Reſolution of a ſetled Mind! The <hi>Duke</hi> anſwer'd the King, <hi>That he thought himſelf extremely unhappy, that his Majeſty ſhould have ſo ill an Opinion of him, as to think that all that is Great in the World, could make him change his Religion. That if, upon ſuch low Mo<g ref="char:EOLhyphen"/>tives, he abandon'd the Service of the God of his Fathers, he ſhould deſerve the ſcorn of all Men, and in particular of his Majeſty: And that he who was not true to God, could never be faithful to his Prince.</hi> Thus he declin'd the Splendid Offer; and ſhew'd a Soul that was proof againſt the moſt preſſing Temptations of Mankind.</p>
+               <p>But his Merit, a ſhort time after forc't that Dignity from their hands. The vaſt Deſigns of <hi>France,</hi> made them diſpence with their Bigottry: They were ſenſible, that thoſe Men carry'd Succeſs and Victo<g ref="char:EOLhyphen"/>ry at their heels: That King then ſent him the <hi>BASTON,</hi> without any other condi<g ref="char:EOLhyphen"/>tion than that of ſerving his Prince; and could but admire his Generoſity, equal to
+<pb n="18" facs="tcp:58168:9"/>a Great Man of the ſame time, in all other parts; but much greater in this, that the other was overcome; loſt firſt his Religion, and ſhortly after his Fortune with his Life.</p>
+               <p>
+                  <hi>CATALONIA</hi> and <hi>FLANDERS</hi> ſaw him with this increaſe of Honour. In the one, he repreſt the Inſolence of the <hi>Spaniard.</hi> In the other, he laid the foundation of thoſe Conqueſts, which like a rapid ſtream did ſince overrun the <hi>Spaniſh Netherlands.</hi> He oblig'd the Heroe of this Age to raiſe the Siege of <hi>Maeſtrick,</hi> when nothing but a Surrender was ex<g ref="char:EOLhyphen"/>pected.</p>
+               <p>His vaſt Skill in Military Affairs, made the Souldier bold and ſecure under him. No attempt ſeem'd difficult, if but done by his Command. He was the Love as well as the Terror of his Enemies. For no General was ever ſo averſe from Vio<g ref="char:EOLhyphen"/>lence, even againſt thoſe he had vanquiſht. The War was never with him, what it is
+<pb n="19" facs="tcp:58168:9"/>now with ſome Generals the other ſide of the Sea, where burning of Towns, laying a whole Country in Aſhes, and ſparing neither Age nor Sex, is lookt on as a great commendation to Po<g ref="char:EOLhyphen"/>ſterity.</p>
+               <p>The furious Zeal of the common Di<g ref="char:EOLhyphen"/>ſturbers of Mankind, I mean the <hi>Jeſuits,</hi> having rais'd a violent Perſecution againſt the <hi>French</hi> Proteſtants; The <hi>Duke</hi> was in<g ref="char:EOLhyphen"/>volv'd in their Fate; and forc'd to leave a Service ſo highly Honour'd, Advanc'd, and Oblig'd by him. His Great Soul, would not ſuffer him ſo much as to complain. He was mov'd with every bodies loſs, but his own; and pity'd thoſe unfortunate Counſels, which depriv'd a Prince of ſo many of his beſt Subjects.</p>
+               <p>His Imperial Majeſty had ſome thoughts to offer him the Command of his Armies. But this was ſoon obſtructed by the <hi>Jeſuits</hi> Faction; a ſort of Men, whom it is even dangerous for Crown'd Heads
+<pb n="20" facs="tcp:58168:10"/>to diſoblige. Several other Princes courted him to their Dominions: His Duty car<g ref="char:EOLhyphen"/>ry'd him to the late Elector of <hi>BRAN<g ref="char:EOLhyphen"/>DENBO<g ref="char:V">Ʋ</g>RGH,</hi> a Wiſe, a Religious, a Brave, and a Fortunate Prince.</p>
+               <p>
+                  <hi>ENGLAND</hi> then began to be diſtracted, not with Fears and Jealouſies, but real Terrours. It had no more the looks of that happy Iſland; where Peace and Plen<g ref="char:EOLhyphen"/>ty, Honour and Security, ſeem'd to have ſeated themſelves for ever. King <hi>JAMES</hi> declaring himſelf for a Religion ſo incon<g ref="char:EOLhyphen"/>ſiſtent with the Laws, Intereſts, and In<g ref="char:EOLhyphen"/>clinations of the People, baniſht every thing that could be call'd Joy. But his endeavouring to ſupplant the Ancient Re<g ref="char:EOLhyphen"/>ligion; to ſubvert the Laws; and aſſume to himſelf a Power, deſtructive of the very Conſtitution of this Government, fill'd all Men with an incredible Sorrow. The Conſternation was much increaſt by that Declaration, which put no bounds to any ſort of Profaneneſs. The Im<g ref="char:EOLhyphen"/>priſoning
+<pb n="21" facs="tcp:58168:10"/>the Reverend Prelates of this Church, made them think it high time to look to themſelves. The Eyes, the Hearts, the Prayers of the Nation, were all di<g ref="char:EOLhyphen"/>rected to him who has undertaken and perform'd our Deliverance.</p>
+               <p>His Majeſty Came, Saw, and Conquer'd King <hi>JAMES:</hi> But did not think the Enterpriſe eaſie or likely to ſucceed, with<g ref="char:EOLhyphen"/>out a General of Reputation. <hi>SCHON<g ref="char:EOLhyphen"/>BERG,</hi> the Famous'ſt Captain of this Age, was the King's choice; and this I take to be the higheſt Commendation can be given him, and the fineſt part of that Picture which is now drawing. That the Croud ſhould ſpend themſelves in loud Acclamations: That <hi>Orators, Poets,</hi> and <hi>Gazetteers,</hi> ſhould noiſe it all the world over, is indeed conſiderable. But that King <hi>WILLIAM,</hi> who has ſo great an in<g ref="char:EOLhyphen"/>ſight in Men; who is himſelf for Wiſdom and Valour, for Conduct and Courage, the admiration of all People, ſhould truſt
+<pb n="23" facs="tcp:58168:11"/>him with the Undertaking, ſpeaks the whole Character of the <hi>Duke,</hi> better than any thing that can be ſaid of him.</p>
+               <p>Heaven ſeem'd to have prepar'd a con<g ref="char:EOLhyphen"/>courſe of Cauſes, to work and haſten that aſtoniſhing Revolution which we have ſeen, and Poſterity will ſcarce believe. Such were the Religion of King <hi>JAMES;</hi> The raſhneſs of his Counſels; The laying aſide his Fathers and Brothers Friends; The contriving to Ridicule and Ruine a Church, which is the beſt Support to the Crown; and above all things, the falſe Glory of imitating <hi>LEWIS</hi> the 14th, in being confin'd by no Law, and pro<g ref="char:EOLhyphen"/>ceeding by Arbitrary Methods: All theſe things made way for this wonderful change. He had a numerous and fine Army. He was made to believe that his Subjects would tamely yield to any thing. He could not be perſwaded, that <hi>Engliſhmen</hi> would rouſe at laſt, and ſecure themſelves and their Laws. He ſhar'd already in his
+<pb n="22" facs="tcp:58168:11"/>mind with <hi>LEWIS</hi> of <hi>France,</hi> the Glory of extirpating the <hi>Northern</hi> Hereſie.</p>
+               <p>But oh the Vanity of Men, whoſe De<g ref="char:EOLhyphen"/>ſigns fight againſt God, and are not mo<g ref="char:EOLhyphen"/>dell'd by the Rules of Juſtice and Equi<g ref="char:EOLhyphen"/>ty! His now Majeſty Lands, and God who takes away the Spirit of Princes, left King <hi>JAMES</hi> no Reſolution. But this may be aſſur'd with Truth, that the <hi>Duke</hi>'s coming over, helpt as much as any thing to diſtract his Councils. The King's Forces were far from being nu<g ref="char:EOLhyphen"/>merous; but the Name of <hi>SCHONBERG</hi> alone was an Army. His Age, his Repu<g ref="char:EOLhyphen"/>tation, his Fortune, gave a quick motion to the undertaking: The old General had croſt the Sea with chearfulneſs, and a cer<g ref="char:EOLhyphen"/>tain alacrity, which is an undoubted ſign of Victory. But the Almighty would have the ſucceſs wholy due to himſelf. The Kingdom call'd in a Conqueror, but was not Conquer'd; or if it can be call'd a Conqueſt, it was only of the Hearts
+<pb n="23" facs="tcp:58168:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:58168:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:58168:13"/>of the Nation, who Conſpir'd to make themſelves happy, by declaring <hi>WILLIAM</hi> and <hi>MARY</hi> King and Queen.</p>
+               <p>But <hi>Ireland</hi> alter'd the Face of Affairs, and prov'd the Seat of that War which we had ſo happily avoided. There King <hi>JAMES</hi> found not only a retreat, but alſo a numerous Army. He overrun that Kingdom with an incredible celerity; and found no reſiſtance but in <hi>LONDON-DERRY;</hi> a place, where the Courage of of the Inhabitants, and the Zeal of an honeſt Clergy man ſupply'd the want of Walls, of Guns, and all other things ne<g ref="char:EOLhyphen"/>ceſſary for the maintenance of a long Siege.</p>
+               <p>The <hi>Duke</hi> was ſent thither with Forces highly magnify'd to us, or to Foreign Nations; but inconſiderable in themſelves. Yet he undertook the charge; and let the <hi>Iriſh</hi> know of his Arrival, by the taking of <hi>Carrick-fergus, Belfaſt,</hi> and ſecuring to his Royal Maſter the <hi>North</hi> of <hi>Ireland.</hi>
+                  <pb n="25" facs="tcp:58168:13"/>He met there with Enemies unknown to him before, and which would have daunted any but an Invincible Courage; and tho' the reſt of that Campaign, be not famous by the taking of Towns, giving of Bat<g ref="char:EOLhyphen"/>tels, and other Events of noiſe in the world; yet Envy it ſelf muſt confeſs, that to conſider the thing in it ſelf, none but <hi>SCHONBERG</hi> could have done what was done the laſt Winter. Mortality rag'd then to that degree, that the greateſt Defeat could not have conſum'd more of his Men. The Army was reduc'd to one half, and that half afflicted with infinite diſtempers. There was ſcarce two thou<g ref="char:EOLhyphen"/>ſand in the whole, that did not ſhare the common Calamity: Add to this an incredible ſcarcity of all things; and the rage of Hunger, more cruel than that of the Sword. Attackt from above by con<g ref="char:EOLhyphen"/>tinual Rains; weakn'd below by Mortal Diſeaſes; conſum'd within with want; and fac'd without, with a numerous
+<pb n="26" facs="tcp:58168:14"/>Army, yet he ſecur'd the <hi>North</hi> of <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> grew upon his Enemies, and made way for that abſolute Conqueſt, reſerv'd to our Great Deliverer.</p>
+               <p>He liv'd to ſee it, and helpt to reap thoſe Laurels, which Crown'd the Sacred Head of <hi>WILLIAM</hi> the Third: The Ri<g ref="char:EOLhyphen"/>ver <hi>Boyn</hi> ſaw the Conqueror lead a Vi<g ref="char:EOLhyphen"/>ctorious Army; and decide at one ſtroke the Fortune of that Kingdom: Unhappy only in this, that there the Great <hi>SCHON<g ref="char:EOLhyphen"/>BERG</hi> was loſt: An Unknown and In<g ref="char:EOLhyphen"/>glorious hand gave him the fatal blow; and depriv'd the World of one of its greateſt Ornaments. And this ſets off the Vanity of Humane Things, beyond the improvements of Eloquence: No Greatneſs ſecures from the Grave; and He, who had run through ſo many dangers, and left nothing to Fortune in any of the Actions of his Life; is involv'd in the common Fate, and dies the Death of a Private Souldier.</p>
+               <pb n="27" facs="tcp:58168:14"/>
+               <p>Thus, Falls <hi>Frederick Duke of Schon<g ref="char:EOLhyphen"/>berg, Marqueſs of Harwich, Count of the Holy Empire, State-Holder of Pruſſia, Grandee of Spain, Mareſ<g ref="char:EOLhyphen"/>chal de France, General of the Forces of</hi> England, France, Portugal, <hi>&amp;c.</hi> Who for Valour, Honour, and all the Accompliſhments of a Great Captain, if we except King <hi>WILLIAM,</hi> to whoſe Blood all theſe things are Hereditary, has not left his Equal behind him.</p>
+            </div>
+            <div type="part">
+               <p>But all that has been ſaid here, is but one part of his Character. He is as ad<g ref="char:EOLhyphen"/>mirable in his Private, as in his Publick Capacities; and there is as ample a Cata<g ref="char:EOLhyphen"/>logue of his Vertues, as of his Exploits.</p>
+               <p>To be Great and Good is extraordi<g ref="char:EOLhyphen"/>nary and difficult. To live in the Noiſe and Violence of Wars, and yet preſerve a Religious Temper, and a Conſcience tender of the leaſt Evil, is infinitely rare.
+<pb n="28" facs="tcp:58168:15"/>To be as intent to overcome our Selves, as our Enemies, is the higheſt improve<g ref="char:EOLhyphen"/>ment of Vertue; all this was in the <hi>Duke</hi> to an eminent degree. He was of an Affable, Candid, and Obliging Nature. It was harder to him to deny a Favour, than to another to be deny'd. He ne<g ref="char:EOLhyphen"/>ver ſuffer'd himſelf to be askt, when he ſaw a real Merit; and refus'd with an extream Civility, what he could not grant.</p>
+               <p>Temperance, which in moſt Men is an acquir'd Habit, and the reward of re<g ref="char:EOLhyphen"/>peated Endeavours, was in him only the reſult of a happy Nature. <hi>L<g ref="char:V">Ʋ</g>CAN</hi> ſaid of <hi>CATO,</hi> in a lofty way of Expreſſion, par<g ref="char:EOLhyphen"/>donable to none but a Stoick, <hi>That the Illuſtrious Roman rather ſuffer'd than enjoy'd any Pleaſure.</hi> As if Paſſion could raiſe us above Paſſion, and Senſe make us in<g ref="char:EOLhyphen"/>ſenſible. But it muſt truly be ſaid of the <hi>Duke,</hi> that thoſe Luſts never maſter'd him; which if they were not ſo general<g ref="char:EOLhyphen"/>ly indulg'd, would look ſtrangely to Men
+<pb n="29" facs="tcp:58168:15"/>of Honour. His Duty was his greateſt Paſſion; and the diſcharge of the Noble-Truſts put into his hands, his only plea<g ref="char:EOLhyphen"/>ſure. And beſides the Infinite Bleſſings which Temperance heaps on its Admirers; to this may be attributed that ſtrength; that vivacity, that ſoundneſs of mind and body, which he preſerv'd to a vaſt Age; and might have done many years longer, had not the Unfortunate Blow prevented it.</p>
+               <p>He was of a Frugal, and yet a mag<g ref="char:EOLhyphen"/>nificent Diſpoſition. Nothing ſo Noble as his Houſhold, his Equipage, his way of Living: And yet nothing of Luxury, Pride, Oſtentation, and a certain deſire to look Great by Colour and Noiſe.</p>
+               <p>He was in his different Employments, the only Perſon who did not praiſe his own Actions; as ſilent, as if he had not been concern'd in the things that were ſaid of him: and in this, truly Great, to be above the mean Inſinuations of
+<pb n="30" facs="tcp:58168:16"/>Flatterers. A Famous Wit in <hi>France,</hi> was commanded to Compliment him at his return from <hi>Portugal;</hi> and to make his Atchievements in that Country, the chief Theam of his Harangue. He did it to the Admiration of all who heard him, but the <hi>Duke</hi>'s. His Modeſty was more troubl'd at his Praiſes, than ever his Courage at the ſight of the <hi>Spaniſh</hi> Bat<g ref="char:EOLhyphen"/>talions. He told plainly the Orator, <hi>That he had done nothing to deſerve that large Encomium; but only endeavour'd, to be as inſtrumental as he could to the Glory of his Prince.</hi>
+               </p>
+               <p>What ſhall I ſay of the Nobleneſs of his Mind; and of that Character of Honour, Truth, and Juſtice, which was ſo Natural to him: Exact to the Rules of Civility, Breeding, and all the Ac<g ref="char:EOLhyphen"/>compliſhments of Men of Quality; things that ſeem'd to be born with him; and yet incapable of the Diſſimulation, and other ſordid Arts of Court. He could
+<pb n="31" facs="tcp:58168:16"/>not promiſe, what he did not intend to perform. All his Offers of Service, were Realities. Free from that duplicity and emptineſs, which with ſome Affectation of Mode and Gallantry, make up now the Gentleman.</p>
+               <p>And as for the evenneſs of his Tem<g ref="char:EOLhyphen"/>per, which in a hot and ſtrong Conſtitu<g ref="char:EOLhyphen"/>tion is the more to be admir'd, it can ſcarcely be expreſt. He was of an eaſie Acceſs, and an incredible Patience. Ne<g ref="char:EOLhyphen"/>ver Angry, never Diſtaſted, but alwaies the ſame, willing to oblige, and averſe from diſpleaſing even the moſt ordinary People. The moſt ſurpriſing dangers, never betray'd in him any fear. The moſt Glorious Succeſſes never ſhew'd in him any Pride. Maſter of himſelf in an Adverſe Fortune: But that that is much rarer, Maſter of himſelf in a proſperous State.</p>
+               <p>Theſe Accompliſhments flow'd from a Religious Temper. Piety that admira<g ref="char:EOLhyphen"/>ble
+<pb n="32" facs="tcp:58168:17"/>Diſcipline, which Diviniſes Man, and raiſes him above himſelf, was his conti<g ref="char:EOLhyphen"/>nual Application. The Softneſs of the Court; the Violence of Wars, and the diſtraction of Great Employments, could not bear down in him that ſtanding Principle of his Life. He fear'd him who is worthy to be fear'd; and lookt upon Atheiſm and Profaneneſs, as Enormities to be deteſted by all Men; but wholy in<g ref="char:EOLhyphen"/>conſiſtent with the Temper of Perſons of Honour.</p>
+               <p>He was Bred in the Proteſtant Reli<g ref="char:EOLhyphen"/>gion: But did not owe the Zeal he had for it, to the firſt Impreſſions of Educa<g ref="char:EOLhyphen"/>on, or the Examples of his Anceſtors, but to the inward Conviction of his Mind. One of the ſtrongeſt Arguments to embrace it, is, that it is highly Ratio<g ref="char:EOLhyphen"/>nal in it ſelf, and free from thoſe Impo<g ref="char:EOLhyphen"/>ſitions, which other Opinions force on our Reaſon. It proteſts not only againſt the ill waies of propagating Religion,
+<pb n="33" facs="tcp:58168:17"/>ſuch as Cruelty and Violence; Hypo<g ref="char:EOLhyphen"/>criſie and Unfaithfulneſs: But againſt thoſe deſigns alſo, that are irreconcilable to the innate Notions, and Apprehenſions of Mankind.</p>
+               <p>The <hi>Duke</hi> was not then a Proteſtant, be<g ref="char:EOLhyphen"/>cauſe it was the Religion of his Country, or the Stream of the Times. He did not per<g ref="char:EOLhyphen"/>ſevere in it, as Men do in thoſe ways, which once eſpous'd, they cannot be perſwaded to abandon. He was perfectly acquainted with thoſe Arguments, which evince the Truth of what we believe. This made him inacceſſible to the repeated Endeavours of a ſort of Men, whoſe chief care is to creep into Noble Families: And under pretence of winning their Souls to God, get their Eſtates to themſelves: Attempting to cor<g ref="char:EOLhyphen"/>rupt thoſe Conſciences which they cannot inform: working upon the Senſes and Luſts of Men: And by the imaginary Hopes of this, making them forfeit thoſe of the next World.</p>
+               <pb n="34" facs="tcp:58168:18"/>
+               <p>The ſureſt Argument that we are perſwad<g ref="char:EOLhyphen"/>ed of the Truth, being to practice what we believe; the <hi>D<g ref="char:V">Ʋ</g>KE</hi> had always a ſincere Attachment to any thing that was a part of Religion. He was free from Affectation, Big<g ref="char:EOLhyphen"/>gottry, and a ſort of intemperate Zeal, which is rather a Scandal than a further<g ref="char:EOLhyphen"/>ance to Chriſtianity. But of the other ſide, as exact to the Publick and Private Duties of Piety; as if his Life had not been taken up with Military Troubles, but conſecrated to Heavenly Cares. It was ſaid of <hi>Theodoſius,</hi> by the Eloquent Biſhop of <hi>Milan, That his Houſehold had in the Royal Palace of a Prince, the Devotion of a Monaſtery.</hi> Really, the <hi>D<g ref="char:V">Ʋ</g>KE</hi> of <hi>SCHONBERG</hi> ſufferd no Vice in his Family; and his way of living, was the beſt Pattern that could be given his Ser<g ref="char:EOLhyphen"/>vants. And as for thoſe Magnificent Offers, which the Court of <hi>France</hi> made him ſo often, of Honour and Advancement, if he would be perſwaded to Change his Religi<g ref="char:EOLhyphen"/>on: How could he catch at thoſe Bairs, who was ready to venture all that he had
+<pb n="35" facs="tcp:58168:18"/>in the World, rather than be guilty of ſo odious a Sin?</p>
+               <p>It is an eaſie thing to talk Eloquently, and even Zealouſly of Religion. The World is full of Perſons who can do it to admira<g ref="char:EOLhyphen"/>tion. But to loſe for it Honours, Eſtates, Dig<g ref="char:EOLhyphen"/>nities; and readily to forſake all that can make our Life pleaſing and happy, is given but to few. It is a Vertue of the Primitive times, which ours are ſeldom capable of. And whether it comes from the ſtupendi<g ref="char:EOLhyphen"/>ous degeneracy of Mankind; or God's an<g ref="char:EOLhyphen"/>ger to us, who gives us over to our Paſſions; that Heroick temper of Chriſtianity, is al<g ref="char:EOLhyphen"/>moſt worn out of the World.</p>
+               <p>We ſaw it reviv'd in this admirable per<g ref="char:EOLhyphen"/>ſon; who when it came to the point, either to Worſhip with his Prince in the Temple of <hi>Rimmon;</hi> or loſe not only his Favour, but with it a ſplendid Fortune; <hi>choſe rather to ſuffer affliction with the People of God, than to enjoy the pleaſure of Sin for a Seaſon, and eſteem'd the Reproach of Chriſt, greater Rich<g ref="char:EOLhyphen"/>es than the Treaſures of</hi> Egypt.</p>
+               <pb n="36" facs="tcp:58168:19"/>
+               <p>When rageing Popery, not ſatisfied with the havock it had made of the Lives and Fortunes of ordinary Men, durſt even at<g ref="char:EOLhyphen"/>tempt Perſons of the firſt Rank; it fixt on the <hi>Duke</hi> as the grand Object of its Hatred. He was one who could never be brought to humour their Superſtitious Follies; or give any hopes of reconciliation to the pretended Infallible See. The natural Cha<g ref="char:EOLhyphen"/>racter of his Mind, rais'd him above the Frowns and Careſſes of the then Miniſters, and as his advancement was not influenc'd by their Friendſhip, ſo he would not owe his preſervation to their Pity.</p>
+               <p>Nor did ever the Spirit of Jeſuitiſm ap<g ref="char:EOLhyphen"/>pear more in its true Colours, than in the <hi>Duke</hi>'s Caſe; that is, ill natur'd, hard heart<g ref="char:EOLhyphen"/>ed, and inflexible.</p>
+               <p>The remembrance of ſo many important Services done to <hi>France:</hi> His indefatigable Zeal in proſecuting the Intereſts of that Crown: His ſo often try'd Loyalty to their preſent King in times of diſtreſs: The un<g ref="char:EOLhyphen"/>parallel'd Modeſty and Wiſdom of his Car<g ref="char:EOLhyphen"/>riage
+<pb n="37" facs="tcp:58168:19"/>to them of that Religion, could not ſecure him from their Fury. He muſt not only ceaſe to live glorious, but even to live at all, except he is Proſelyted to the Church of <hi>ROME.</hi> And the mildeſt temper that this Charitable Church could find, was, that by a voluntary, he ſhuld prevent a forc'd Baniſhment.</p>
+               <p>Thou didſt receive the Blow with intre<g ref="char:EOLhyphen"/>pidity; and gav'ſt to all the Members of a Purer Religion, an Example fitter for the Primitive times of the Church, than thoſe laſt days of ours. Thou could'ſt pre<g ref="char:EOLhyphen"/>ſerve thy Duty to God in the Engagements of a ſecular Life; and ſacrifice the Intereſts of thy Fortune, the Felicity of this World, and the Advantages of thy Family, to the Obligations of thy Conſcience. Like Holy <hi>Eleazar,</hi> no Oppreſſion, no Violence, no Rage of a furious <hi>Antiochus,</hi> could make thee abjure the Laws of thy Fathers; the Pious Cuſtoms of thy Anceſtors; or the Love of thy People. Thy old Age would not be ſtain'd with ſo foul an Infamy; and give
+<pb n="38" facs="tcp:58168:20"/>ground to Poſterity, to ſay, that the <hi>GREAT SCHONBERG,</hi> blemiſh'd the Glory and In<g ref="char:EOLhyphen"/>nocency of his Life, by yielding ſhamefully to the Promiſes or Threatnings of the Ene<g ref="char:EOLhyphen"/>mies of his God.</p>
+               <p>At paſt ſeventy years old, <hi>THE D<g ref="char:V">Ʋ</g>KE</hi> ſaw himſelf ſtrip'd of all that he had in <hi>France;</hi> and as much as lay in his Enemies <hi>Power,</hi> expos'd to the wide World. Yet he did not ſo much as complain of a Govern<g ref="char:EOLhyphen"/>ment, in which it is hard to ſay, which is moſt Eminent, Cruelty, or Treachery? He did not exclaim againſt the Ingratitude of a Country, which his Valour had ren<g ref="char:EOLhyphen"/>der'd both Safe and Glorious. Nor ſo much as wiſh'd the Powers above to puniſh the extream injuſtice of thoſe left in truſt below.</p>
+               <p>He had ſcarce left that Kingdom, and thought himſelf ſecure from that Barba<g ref="char:EOLhyphen"/>rous Oppreſſion which leaves nothing un<g ref="char:EOLhyphen"/>attempted to carry on its Deſigns; but he fell into a new ſort of danger. He was o<g ref="char:EOLhyphen"/>vertaken at Sea by a Storm, which, contra<g ref="char:EOLhyphen"/>ry to the nature of things extreamly vio<g ref="char:EOLhyphen"/>lent,
+<pb n="39" facs="tcp:58168:20"/>prov'd tedious and laſting. Two days and two Nights that Element was in a rage, and mock'd both the Pilots skill and the Sea-mens endeavours. There was no calm but in the <hi>D<g ref="char:V">Ʋ</g>KE</hi>'s Looks, who knowing whence the Blow came, apply'd himſelf to divert it. He caus'd continual Prayers in the Ship, to be made to him who Com<g ref="char:EOLhyphen"/>mands the Waves to be ſtill. That Piety which had ſupported him in ſo many dan<g ref="char:EOLhyphen"/>gers, was their Preſervation. God ſeem'd to have given him the Souls of theſe Men. There is none of them that periſh'd, or ſuf<g ref="char:EOLhyphen"/>fer'd Injury.</p>
+               <p>He is now himſelf in the Port; free from the Troubles and Agitations of this Life. He has chang'd the Glories of this World, in<g ref="char:EOLhyphen"/>to the ſolid Bleſſings of the other. What<g ref="char:EOLhyphen"/>ſoever he did in this, was only in order to that. He has obtain'd it, and finiſh'd a long courſe of Vertue and Honour. He lives to Poſterity, by the large ſhare he has ſecur'd to himſelf of the Hiſtory of this Age; and his Name cannot be forgotten, ſo long
+<pb n="40" facs="tcp:58168:21"/>as Men are capable of admiring great Actions.</p>
+               <p>But he has taken a ſurer way to perpetu<g ref="char:EOLhyphen"/>ate his Memory; and that is by leaving two Sons behind him, who are two exact Copies of that excellent Original. <hi>HIS GRACE, CHARLES,</hi> now <hi>D<g ref="char:V">Ʋ</g>KE of SCHONBERG;</hi> and the Right Honou<g ref="char:EOLhyphen"/>rable <hi>MENAR, Count of SCHONBERG;</hi> Perſons of that Nobleneſs of Mind, Repu<g ref="char:EOLhyphen"/>tation in the World, Capacity for Milita<g ref="char:EOLhyphen"/>ry Affairs, Religion, Conduct, Wiſdom, Courage, Sincerity, Candor, and all the Vertues of Men of great Quality, as have already, and will in few Years more, find ample matter for the largeſt Panegyrick.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58168:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
